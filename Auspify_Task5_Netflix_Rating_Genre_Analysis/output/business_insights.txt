@@ -1,0 +1,21 @@
+AUSPIFY TASK 5: BUSINESS INSIGHTS
+
+Most common content rating category: TV-MA
+Most represented genre: International Movies
+
+TOP 10 GENRES:
+International Movies: 2752 titles
+Dramas: 2426 titles
+Comedies: 1674 titles
+International TV Shows: 1349 titles
+Documentaries: 869 titles
+Action & Adventure: 859 titles
+TV Dramas: 762 titles
+Independent Movies: 756 titles
+Children & Family Movies: 641 titles
+Romantic Movies: 616 titles
+
+INTERPRETATION:
+Content ratings describe audience suitability, not review scores or popularity ratings.
+Genre counts can overlap because one title may belong to multiple genres.
+These results describe the available dataset and do not prove audience preferences or viewing behavior.
